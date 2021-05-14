@@ -1,0 +1,6 @@
+@charset "UTF-8";
+   p { 
+      font-size:15px;
+      border:1px solid gray;
+      padding:10px;
+    }

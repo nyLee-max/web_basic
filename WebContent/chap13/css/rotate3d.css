@@ -1,0 +1,22 @@
+@charset "UTF-8";
+
+.origin {
+	perspective: 200px;
+	float: left;
+}
+
+.rotatex {
+	transform: rotateX(45deg);
+}
+
+.rotatey {
+	transform: rotateY(45deg);
+}
+
+.rotatez {
+	transform: rotateZ(45deg);
+}
+
+.rotatexyz {
+	transform: rotate3d(2.5, 1.2, -1.5, 45deg);
+}

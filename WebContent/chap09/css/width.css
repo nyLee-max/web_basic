@@ -1,0 +1,6 @@
+@charset "UTF-8";
+.multi{
+	-webkit-column-width:120px;
+	-moz-column-width:120px;
+	column-width:120px;
+}

@@ -1,0 +1,20 @@
+@charset "UTF-8";
+.table1{
+	border:1px solid black;
+	border-collapse:separate;
+	border-spacing: 20px 10px;
+}
+td{
+	border:1px solid black;
+	padding:10px;
+	text-align:center;
+}
+.table2{
+	border-collapse: separate;
+	border-spacing: 20px 10px;
+}
+td{
+	border:1px solid black;
+	padding:10px;
+	text-align:center;
+}

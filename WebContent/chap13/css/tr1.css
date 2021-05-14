@@ -1,0 +1,14 @@
+@charset "UTF-8";
+.tr1{
+	width: 100px;
+	height: 100px;
+	background-color: blue;
+	border: 1px solid black;
+	transition-property: width, height;
+	transition-duration: 2s, 1s;
+}
+
+.tr1:hover{
+	width: 200px;
+	height: 120px;
+}

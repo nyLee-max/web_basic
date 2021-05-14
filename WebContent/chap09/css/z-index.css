@@ -1,0 +1,7 @@
+@charset "UTF-8";
+div#wrapper{
+	position : relative;
+}
+#b1{z-index:1; }
+#b2{z-index:3;}
+#b3{z-index:1;}

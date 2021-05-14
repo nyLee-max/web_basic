@@ -1,0 +1,11 @@
+@charset "UTF-8";
+#fx{
+	position: fixed;
+	top:5px;
+	right:5px;
+	width:50px;
+	height:50px;
+	background:#ff6a00;
+}
+#content{width:400px;}
+p{line-height:30px;}

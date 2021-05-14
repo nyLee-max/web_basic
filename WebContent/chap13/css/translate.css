@@ -1,0 +1,5 @@
+@charset "UTF-8";
+.movex:hover{transform: translateX(50px);}
+.movey:hover{transform: translateY(20px);}
+.movexy:hover{transform: translate(10px, 20px);}
+

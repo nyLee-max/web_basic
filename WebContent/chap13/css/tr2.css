@@ -1,0 +1,16 @@
+@charset "UTF-8";
+.tr1{
+	width: 100px;
+	height: 100px;
+	background-color: red;
+	border: 1px solid black;
+	transition-property: background-color, transform, width, height;
+	transition-duration: 2s, 3s;
+	text-align:center;
+}
+.tr1:hover{
+	width: 200px;
+	height: 200px;
+	background-color:#ff6e5f;
+	transform:rotate(180deg);
+}

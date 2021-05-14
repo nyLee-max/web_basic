@@ -1,0 +1,11 @@
+@charset "UTF-8";
+div{
+	width:200px;
+	height:100px;
+	background:#0094ff;
+}
+
+.box1{margin:30px 50px 30px 50px;}
+.box2{margin:30px 50px;}
+.box3{margin:50px;}
+.box4{margin:30px 5px 10px;}
